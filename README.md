@@ -1,2 +1,2 @@
 # ProyectoVideojuegos_
-Nuestro Primer videojuego
+Primer videojuego
